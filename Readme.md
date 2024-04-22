@@ -1,6 +1,6 @@
 # ARM7 Assembler
 
-- ARM7 Assembler I wrote in Python to better learn Computer Engineering/Science from first principles.
+- ARM7 Assembler I wrote in Python.
 - Characteristics
     - 16 bit instruction sets. 
     - Registers 1 byte long
